@@ -1,0 +1,15 @@
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\bin\Debug\net6.0\VariablesExcercise.exe
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\bin\Debug\net6.0\VariablesExcercise.deps.json
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\bin\Debug\net6.0\VariablesExcercise.runtimeconfig.json
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\bin\Debug\net6.0\VariablesExcercise.dll
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\bin\Debug\net6.0\VariablesExcercise.pdb
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\obj\Debug\net6.0\VariablesExcercise.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\obj\Debug\net6.0\VariablesExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\obj\Debug\net6.0\VariablesExcercise.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\obj\Debug\net6.0\VariablesExcercise.AssemblyInfo.cs
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\obj\Debug\net6.0\VariablesExcercise.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\obj\Debug\net6.0\VariablesExcercise.dll
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\obj\Debug\net6.0\refint\VariablesExcercise.dll
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\obj\Debug\net6.0\VariablesExcercise.pdb
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\obj\Debug\net6.0\VariablesExcercise.genruntimeconfig.cache
+C:\Users\David\OneDrive\Desktop\Repos\VariablesExcercise\obj\Debug\net6.0\ref\VariablesExcercise.dll
